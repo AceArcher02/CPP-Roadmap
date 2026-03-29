@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    double currentWeight;
+    double targetWeight = 60.0;
+    cout << "Enter current weight: ";
+    cin >> currentWeight;
+    cout << "Kgs to go: " << currentWeight - targetWeight << " kg" << endl;
+    return 0;
+}
