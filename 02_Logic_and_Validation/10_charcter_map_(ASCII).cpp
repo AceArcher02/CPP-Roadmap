@@ -1,0 +1,11 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    char ch;
+    cout << "Enter a character: ";
+    cin >> ch;
+    // (int) casts the character to its numeric ASCII value
+    cout << "The ASCII value of " << ch << " is " << (int)ch << endl;
+    return 0;
+}
