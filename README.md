@@ -1,6 +1,6 @@
 # ⚙️ AceArcher: The C++ Engine Room 
 
-"C++: Where you have to build the hammer before you can hit the nail."-Every dev, eventually 
+> "C++: Where you have to build the hammer before you can hit the nail."-*Every dev, eventually*
 
 Welcome. While Python is my magic wand, C++ is my power tool. This is where I come to build things that are fast, efficient, and slightly intimidating.
 
