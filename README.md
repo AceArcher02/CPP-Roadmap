@@ -16,7 +16,7 @@ Welcome. While Python is my magic wand, C++ is my power tool. This is where I co
 
 | Folder | Mission |
 | :---- | :--- |
-| **[00_The_Start/](./00_The_Start) 
+| **[00_The_Start/](./00_The_Start)
 ** | Lighting the furnace. My first cout << "Hello World" .This is where everything started 🚀 |
 | **[01_Syntax_Foundation/](./01_Syntax_Foundation) ** | Learning the "Semicolon Tax." Mastering data types, variables, and the strict rules of C++. 🏗️ |
 | **[02_Logic_and_Validation/](./02_Logic_and_Validation) ** | Building the brain of the engine. Using if/else and switch statements to make sure the code doesn't crash on bad input. 🧠 |
@@ -37,5 +37,7 @@ Welcome. While Python is my magic wand, C++ is my power tool. This is where I co
 - [ ] **Pointer Logic:** Finding out where variables live and if they pay rent.
 - [ ] **Efficiency:** Making code run faster than a caffeine kick.
 - [ ] **Problem Solving:** Breaking complex logic into simple lines.
+
+---
 
 **Maintained with curiosity , caffeine and a healthy dose of sarcasm by AceArcher02.**
