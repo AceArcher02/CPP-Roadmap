@@ -16,11 +16,12 @@ Welcome. While Python is my magic wand, C++ is my power tool. This is where I co
 
 | Folder | Mission |
 | :---- | :--- |
-| **[00_The_Start/](./00_The_Start) | Lighting the furnace. My first cout << "Hello World" .This is where everything started 🚀 |
-| **[01_Syntax_Foundation/](./01_Syntax_Foundation) | Learning the "Semicolon Tax." Mastering data types, variables, and the strict rules of C++. 🏗️ |
-| **[02_Logic_and_Validation/](./02_Logic_and_Validation) | Building the brain of the engine. Using if/else and switch statements to make sure the code doesn't crash on bad input. 🧠 |
-| **[03_Mathematical_Models/](./03_Mathematical_Models) | High-speed calculations. Using C++ to handle math problems faster than a caffeine kick. ⚡ |
-| **[04_Utility_and_Goals/](./04_Utility_and_Goals) | The "Toolbox." Where I keep helper functions and my checklist for becoming a C++ Architect. 🛠️ |
+| **[00_The_Start/](./00_The_Start) 
+** | Lighting the furnace. My first cout << "Hello World" .This is where everything started 🚀 |
+| **[01_Syntax_Foundation/](./01_Syntax_Foundation) ** | Learning the "Semicolon Tax." Mastering data types, variables, and the strict rules of C++. 🏗️ |
+| **[02_Logic_and_Validation/](./02_Logic_and_Validation) ** | Building the brain of the engine. Using if/else and switch statements to make sure the code doesn't crash on bad input. 🧠 |
+| **[03_Mathematical_Models/](./03_Mathematical_Models) ** | High-speed calculations. Using C++ to handle math problems faster than a caffeine kick. ⚡ |
+| **[04_Utility_and_Goals/](./04_Utility_and_Goals) ** | The "Toolbox." Where I keep helper functions and my checklist for becoming a C++ Architect. 🛠️ |
 
 
 ## 🧪 The Mad Scientist Rules
